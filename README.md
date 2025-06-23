@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<--
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qowlghkss)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
 ![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
