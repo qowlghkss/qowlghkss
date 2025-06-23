@@ -1,5 +1,5 @@
 ## Hi there 👋
- <img src="https://img.shields.io/badge/streamlabs-#80F5D2?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/streamlabs-61DAFB?style=flat&logo=TypeScript&logoColor=white"/>
 
 
 <!--
